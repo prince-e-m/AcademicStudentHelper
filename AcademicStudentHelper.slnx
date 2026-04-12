@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="AcademicStudentHelper/AcademicStudentHelper.vcxproj" Id="0fe0f17a-61c5-4b08-a930-aaeb46ca4c4a" />
+</Solution>
