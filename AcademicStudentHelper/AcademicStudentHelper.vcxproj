@@ -130,11 +130,6 @@
     <ClCompile Include="GradeMath.cpp" />
     <ClCompile Include="GradesTerminal.cpp" />
     <ClCompile Include="main.cpp" />
-    <ClCompile Include="src\AppController.cpp" />
-    <ClCompile Include="src\GradeMath.cpp" />
-    <ClCompile Include="src\Persistence.cpp" />
-    <ClCompile Include="src\Settings.cpp" />
-    <ClCompile Include="src\StudentManager.cpp" />
     <ClCompile Include="TermGradeCalculator.cpp" />
     <ClCompile Include="TermManager.cpp" />
   </ItemGroup>

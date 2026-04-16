@@ -308,8 +308,8 @@ void AppController::Run() {
                         auto backups = Persistence::ListBackupDirs(std::filesystem::path("."));
                         std::cout << "Total backup folders: " << backups.size() << "\n";
                     }
-                    else std::cout << "Failed to delete profiles.\n";
-                }
+                else std::cout << "Failed to delete profiles.\n";
+            }
             }
             continue;
         }
