@@ -130,6 +130,11 @@
     <ClCompile Include="GradeMath.cpp" />
     <ClCompile Include="GradesTerminal.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="src\AppController.cpp" />
+    <ClCompile Include="src\GradeMath.cpp" />
+    <ClCompile Include="src\Persistence.cpp" />
+    <ClCompile Include="src\Settings.cpp" />
+    <ClCompile Include="src\StudentManager.cpp" />
     <ClCompile Include="TermGradeCalculator.cpp" />
     <ClCompile Include="TermManager.cpp" />
   </ItemGroup>
@@ -137,8 +142,15 @@
     <ClInclude Include="Display.h" />
     <ClInclude Include="GradeMath.h" />
     <ClInclude Include="GradesTerminal.h" />
+    <ClInclude Include="src\AppController.h" />
+    <ClInclude Include="src\GradeMath.h" />
+    <ClInclude Include="src\Models.h" />
+    <ClInclude Include="src\Persistence.h" />
+    <ClInclude Include="src\Settings.h" />
+    <ClInclude Include="src\StudentManager.h" />
     <ClInclude Include="TermGradeCalculator.h" />
     <ClInclude Include="TermManager.h" />
+    <ClInclude Include="third_party\json.hpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
