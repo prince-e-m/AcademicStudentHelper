@@ -1,0 +1,21 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Folder Name="/Source/">
+    <File Path="AcademicStudentHelper/src/AppController.cpp" />
+    <File Path="AcademicStudentHelper/src/GradeMath.cpp" />
+    <File Path="AcademicStudentHelper/src/GradesTerminal.cpp" />
+    <File Path="AcademicStudentHelper/src/main.cpp" />
+    <File Path="AcademicStudentHelper/src/Persistence.cpp" />
+    <File Path="AcademicStudentHelper/src/Settings.cpp" />
+    <File Path="AcademicStudentHelper/src/StudentManager.cpp" />
+    <File Path="AcademicStudentHelper/src/TermGradeCalculator.cpp" />
+    <File Path="AcademicStudentHelper/src/TermManager.cpp" />
+  </Folder>
+  <Folder Name="/ThirdParty/">
+    <File Path="AcademicStudentHelper/third_party/json.hpp" />
+  </Folder>
+  <Project Path="AcademicStudentHelper/AcademicStudentHelper.vcxproj" Id="0fe0f17a-61c5-4b08-a930-aaeb46ca4c4a" />
+</Solution>
