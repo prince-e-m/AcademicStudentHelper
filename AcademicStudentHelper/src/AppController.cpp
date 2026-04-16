@@ -3,6 +3,7 @@
 #include "Persistence.h"
 #include "GradeMath.h"
 #include "Settings.h"
+#include "Display.h"
 #include <filesystem>
 #include <iostream>
 #include <limits>
