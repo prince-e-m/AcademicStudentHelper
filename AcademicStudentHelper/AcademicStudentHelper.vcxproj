@@ -127,11 +127,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="GradeMath.cpp" />
+    <ClCompile Include="..\..\..\..\..\Downloads\AcademicStudentHelper-Working-Prototype\AcademicStudentHelper-Working-Prototype\AcademicStudentHelper\GradeMath.cpp" />
     <ClCompile Include="GradesTerminal.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="src\AppController.cpp" />
-    <ClCompile Include="src\GradeMath.cpp" />
     <ClCompile Include="src\Persistence.cpp" />
     <ClCompile Include="src\Settings.cpp" />
     <ClCompile Include="src\StudentManager.cpp" />
@@ -140,7 +139,6 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Display.h" />
-    <ClInclude Include="GradeMath.h" />
     <ClInclude Include="GradesTerminal.h" />
     <ClInclude Include="src\AppController.h" />
     <ClInclude Include="src\GradeMath.h" />

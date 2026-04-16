@@ -21,9 +21,6 @@
     <ClCompile Include="TermManager.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="GradeMath.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="TermGradeCalculator.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -39,6 +36,12 @@
     <ClCompile Include="src\StudentManager.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="src\Settings.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\Downloads\AcademicStudentHelper-Working-Prototype\AcademicStudentHelper-Working-Prototype\AcademicStudentHelper\GradeMath.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Display.h">
@@ -48,9 +51,6 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="TermGradeCalculator.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="GradeMath.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="GradesTerminal.h">
@@ -69,6 +69,12 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="src\AppController.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\GradeMath.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Settings.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
